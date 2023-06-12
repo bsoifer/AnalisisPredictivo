@@ -1,6 +1,6 @@
 # Analisis Predictivo
 ## Primer parcial
--Primer Parcial Análisis Predictivo .pdf
+-Primer Parcial Análisis Predictivo .pdf /n
 -Primer Parcial.R
 -weatherAUS.csv
 ## Segundo parcial
