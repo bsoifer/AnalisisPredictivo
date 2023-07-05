@@ -7,6 +7,7 @@
 -Segundo Parcial - Bruno Soifer.pptx <br>
 -TP2_Bruno_Soifer.ipynb <br>
 ## Examen final
+-TP_Final.ipynb <br>
 -Examen Final - Bruno Soifer.pptx <br>
 -Primer Parcial.R <br>
 -weatherAUS2 (4).csv <br>
